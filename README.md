@@ -1,4 +1,4 @@
-#Calorie-tracking-and-pedometerApp
+# Calorie-tracking-and-pedometerApp
 
 __Türkçe__
 
@@ -22,6 +22,8 @@ __Neler Kullandım__
 
 -Redux
 
+<br />
+__Not:__
 
 -Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
 
@@ -52,8 +54,9 @@ __What did I use__
 
 -Redux
 
+<br />
+__Note:__
 
+-The project still has flaws but there will be no fix
 
---The project still has flaws but there will be no fix
-
---Some npm packages may be outdated
+-Some npm packages may be outdated
