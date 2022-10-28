@@ -54,6 +54,6 @@ __What did I use__
 
 
 
--The project still has flaws but there will be no fix
+--The project still has flaws but there will be no fix
 
--Some npm packages may be outdated
+--Some npm packages may be outdated
