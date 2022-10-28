@@ -1,6 +1,7 @@
-# Calorie-tracking-and-pedometerApp
+#Calorie-tracking-and-pedometerApp
 image processing with python/step counter with google api/firebase/ react-native
-##Türkçe
+
+__Türkçe__
 
 React native ile yazdığım ilk projelerden. Üniversite yıllarında yazmıştım. Kodlar biraz karmaşık olabilir.
 ---
@@ -17,7 +18,9 @@ Uygulamadaki meyve tanıma Python e ̧sliginde TensorFlow-Keras kütüphaneleri 
 Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
 Bazı npm paketleri geçerliliğini yitirmiş olabilir
 
-##English
+<br />
+
+__English__
 In this study, it is focused on studies that will help users who will use the application stay healthy, motivate them and provide convenience. 
 According to the results of the research, it is more practical and functional to create a diet, direct sports activities and the right foods with healthy life 
 mobile applications. In the application I created for this purpose, users will be able to use activities such as noting what they eat, using the step counter feature 
