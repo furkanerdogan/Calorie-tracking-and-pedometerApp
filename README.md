@@ -4,6 +4,7 @@ image processing with python/step counter with google api/firebase/ react-native
 __Türkçe__
 
 React native ile yazdığım ilk projelerden. Üniversite yıllarında yazmıştım. Kodlar biraz karmaşık olabilir.
+
 ---
 
 Bu çalışmada, uygulama, uygulamayı kullanacak olan kullanıcıların sağlıklı kalabilmesine yardımcı olacak, onları motive edecek ve kolaylık sağlayacak çalışmalara odaklanılmıştır.
