@@ -1,5 +1,4 @@
 #Calorie-tracking-and-pedometerApp
-image processing with python/step counter with google api/firebase/ react-native
 
 __Türkçe__
 
@@ -13,6 +12,15 @@ aktiviteleri kullanabileceklerdir. Bunun yanı sıra uygulama içinde görüntü
 Buradaki amaç insanların ögün olarak yediği meyvelerin besin değerlerine görüntü işleme sayesinde kolay bir  ̧sekilde ulaşabilmesidir. 
 Uygulamadaki meyve tanıma Python e ̧sliginde TensorFlow-Keras kütüphaneleri ile nesne tespiti gerçekeştirilecektir.
 
+__Neler Kullandım__
+
+-Python ile görüntü işleme
+
+-Google Api ve Sensörler ile adım sayar
+
+-Firebase
+
+-Redux
 
 
 -Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
@@ -32,6 +40,19 @@ mobile applications. In the application I created for this purpose, users will b
 and drinking water daily. In addition, the nutritional values of the fruits will be determined and displayed to the user with image processing within the application. 
 The aim here is that people can easily access the nutritional values of the fruits they eat as a meal, thanks to image processing. 
 Fruit recognition in the application will be performed with TensorFlow-Keras libraries in company with Python.
+
+
+__What did I use__
+
+-Image processing with python
+
+-Step counter with google api
+
+-Firebase
+
+-Redux
+
+
 
 -The project still has flaws but there will be no fix
 
