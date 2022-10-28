@@ -16,6 +16,7 @@ Uygulamadaki meyve tanıma Python e ̧sliginde TensorFlow-Keras kütüphaneleri 
 
 
 -Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
+
 -Bazı npm paketleri geçerliliğini yitirmiş olabilir
 
 ---
@@ -33,4 +34,5 @@ The aim here is that people can easily access the nutritional values of the frui
 Fruit recognition in the application will be performed with TensorFlow-Keras libraries in company with Python.
 
 -The project still has flaws but there will be no fix
+
 -Some npm packages may be outdated
