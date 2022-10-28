@@ -23,7 +23,7 @@ __Neler Kullandım__
 -Redux
 
 <br />
-__Not:__
+__Not__
 
 -Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
 
@@ -55,7 +55,7 @@ __What did I use__
 -Redux
 
 <br />
-__Note:__
+__Note__
 
 -The project still has flaws but there will be no fix
 
