@@ -15,13 +15,15 @@ Uygulamadaki meyve tanıma Python e ̧sliginde TensorFlow-Keras kütüphaneleri 
 
 
 
-Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
-Bazı npm paketleri geçerliliğini yitirmiş olabilir
+-Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
+-Bazı npm paketleri geçerliliğini yitirmiş olabilir
 
 ---
 <br />
 
 __English__
+
+One of the first projects I wrote with React native. I wrote in college. Going through the code will be confusing
 
 In this study, it is focused on studies that will help users who will use the application stay healthy, motivate them and provide convenience. 
 According to the results of the research, it is more practical and functional to create a diet, direct sports activities and the right foods with healthy life 
@@ -30,5 +32,5 @@ and drinking water daily. In addition, the nutritional values of the fruits will
 The aim here is that people can easily access the nutritional values of the fruits they eat as a meal, thanks to image processing. 
 Fruit recognition in the application will be performed with TensorFlow-Keras libraries in company with Python.
 
-The project still has flaws but there will be no fix
-Some npm packages may be outdated
+-The project still has flaws but there will be no fix
+-Some npm packages may be outdated
