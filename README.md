@@ -1,6 +1,7 @@
 # Calorie-tracking-and-pedometerApp
 image processing with python/step counter with google api/firebase/ react-native
 ##Türkçe
+
 React native ile yazdığım ilk projelerden. Üniversite yıllarında yazmıştım. Kodlar biraz karmaşık olabilir.
 ---
 
