@@ -27,6 +27,7 @@ __Neler Kullandım__
 <br />
 
 __Not__
+
 -Projenin hala eksikleri var ancak bir düzeltme olmayacaktır
 
 -Bazı npm paketleri geçerliliğini yitirmiş olabilir
@@ -60,6 +61,7 @@ __What did I use__
 
 
 __Note__
+
 -The project still has flaws but there will be no fix
 
 -Some npm packages may be outdated
