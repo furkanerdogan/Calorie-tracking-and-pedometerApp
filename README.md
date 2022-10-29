@@ -1,5 +1,7 @@
 # Calorie-tracking-and-pedometerApp
 
+__Video__: https://youtu.be/hAOto7lrtnE
+
 __Türkçe__
 
 React native ile yazdığım ilk projelerden. Üniversite yıllarında yazmıştım. Kodlar biraz karmaşık olabilir.
